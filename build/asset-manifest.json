@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/react-gh-pages/static/js/main.6d651e9b.chunk.js",
+    "main.js.map": "/react-gh-pages/static/js/main.6d651e9b.chunk.js.map",
+    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.283815ff.js",
+    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.283815ff.js.map",
+    "static/js/2.35c8fbe8.chunk.js": "/react-gh-pages/static/js/2.35c8fbe8.chunk.js",
+    "static/js/2.35c8fbe8.chunk.js.map": "/react-gh-pages/static/js/2.35c8fbe8.chunk.js.map",
+    "static/js/3.0d94e21a.chunk.js": "/react-gh-pages/static/js/3.0d94e21a.chunk.js",
+    "static/js/3.0d94e21a.chunk.js.map": "/react-gh-pages/static/js/3.0d94e21a.chunk.js.map",
+    "index.html": "/react-gh-pages/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/react-gh-pages/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.35c8fbe8.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.35c8fbe8.chunk.js.LICENSE.txt",
+    "static/media/InstaTele.f5e4b292.jpeg": "/react-gh-pages/static/media/InstaTele.f5e4b292.jpeg",
+    "static/media/NotFound.b684e5be.jpg": "/react-gh-pages/static/media/NotFound.b684e5be.jpg",
+    "static/media/youtube.7880493f.png": "/react-gh-pages/static/media/youtube.7880493f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.283815ff.js",
+    "static/js/2.35c8fbe8.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.6d651e9b.chunk.js"
+  ]
+}
