@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "Bikram Mondal",
+      "username": "m.bikram",
+      "email": "bikrammondal1604@gmail.com",
+      "phone": "0824 083 8530",
+      "id": 1
+    },
+    {
+      "name": "Bikram Mondal",
+      "username": "m.bikram",
+      "email": "bikrammondal1604@gmail.com",
+      "phone": "0824 083 8530",
+      "id": 2
+    }
+  ]
+}
